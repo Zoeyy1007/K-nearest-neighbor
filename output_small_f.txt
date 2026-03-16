@@ -1,0 +1,308 @@
+Classifying Sanity Dataset 1
+Enter you choice: 1. Forward Selection 2. Backward EliminationDefault rate: 0.8156312625250501
+On level 1 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.687374749498998%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.6733466933867736%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.6753507014028056%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7074148296593187%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.6773547094188377%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.6813627254509018%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.6973947895791583%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.8617234468937875%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.6793587174348698%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7034068136272545%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.6733466933867736%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7054108216432866%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7414829659318637%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.6933867735470942%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7134268537074149%
+Considering adding the 16 feature
+Using feature 16 accuracy is 0.7114228456913828%
+On level 1 added feature 8
+On level 2 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.8557114228456913%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8016032064128257%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8476953907815631%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8557114228456913%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8356713426853707%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8376753507014028%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8296593186372746%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.8537074148296593%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.8396793587174348%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.8597194388777555%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.8617234468937875%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.9659318637274549%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8176352705410822%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.8517034068136272%
+Considering adding the 16 feature
+Using feature 16 accuracy is 0.8597194388777555%
+On level 2 added feature 13
+On level 3 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.9338677354709419%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.9298597194388778%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.9398797595190381%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.9318637274549099%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.9118236472945892%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.9398797595190381%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.9418837675350702%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.9278557114228457%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.9438877755511023%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.9258517034068137%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.9438877755511023%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.9178356713426854%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.9258517034068137%
+Considering adding the 16 feature
+Using feature 16 accuracy is 0.9519038076152304%
+On level 3 added feature 16
+On level 4 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.9118236472945892%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8977955911823647%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8957915831663327%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.9018036072144289%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8597194388777555%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8877755511022044%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8937875751503006%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.8717434869739479%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.8917835671342685%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.875751503006012%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.9038076152304609%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8677354709418837%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.8817635270541082%
+On level 4 added feature 1
+On level 5 of the search tree
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8637274549098196%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8557114228456913%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8617234468937875%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8537074148296593%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8376753507014028%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.845691382765531%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.8617234468937875%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.8577154308617234%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.87374749498998%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.8517034068136272%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8597194388777555%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.8416833667334669%
+On level 5 added feature 11
+On level 6 of the search tree
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8176352705410822%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8356713426853707%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8276553106212425%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8016032064128257%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8396793587174348%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.7935871743486974%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.8236472945891784%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.8496993987975952%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.8236472945891784%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8256513026052105%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.8276553106212425%
+On level 6 added feature 10
+On level 7 of the search tree
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8016032064128257%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7895791583166333%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8176352705410822%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7875751503006012%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7915831663326653%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8016032064128257%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.7935871743486974%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.8056112224448898%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8076152304609219%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.8136272545090181%
+On level 7 added feature 4
+On level 8 of the search tree
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7715430861723447%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7875751503006012%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.781563126252505%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7715430861723447%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.7755511022044088%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.7735470941883767%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.779559118236473%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7775551102204409%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7835671342685371%
+On level 8 added feature 3
+On level 9 of the search tree
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7935871743486974%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7635270541082164%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7354709418837675%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.7875751503006012%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.7835671342685371%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7555110220440882%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7715430861723447%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.751503006012024%
+On level 9 added feature 2
+On level 10 of the search tree
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7615230460921844%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7394789579158316%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.7635270541082164%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.7835671342685371%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.751503006012024%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.779559118236473%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7615230460921844%
+On level 10 added feature 9
+On level 11 of the search tree
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7615230460921844%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7214428857715431%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.751503006012024%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7394789579158316%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.781563126252505%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7555110220440882%
+On level 11 added feature 14
+On level 12 of the search tree
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7595190380761523%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7555110220440882%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.7535070140280561%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7575150300601202%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7414829659318637%
+On level 12 added feature 5
+On level 13 of the search tree
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7595190380761523%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.7454909819639278%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7194388777555111%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.751503006012024%
+On level 13 added feature 6
+On level 14 of the search tree
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.7354709418837675%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7134268537074149%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.751503006012024%
+On level 14 added feature 15
+On level 15 of the search tree
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.7414829659318637%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7314629258517034%
+On level 15 added feature 7
+On level 16 of the search tree
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7254509018036072%
+On level 16 added feature 12
+Global best set is [8, 13], global accuracy is 0.9659318637274549
+Total time spent: 0.4265590838622302 seconds

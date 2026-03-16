@@ -1,0 +1,4292 @@
+Classifying Sanity Dataset 1
+Enter you choice: 1. Forward Selection 2. Backward EliminationDefault rate: 0.8079359786595531
+On level 1 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.6795598532844281%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.6852284094698233%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.6958986328776259%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.6848949649883295%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.695565188396132%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.6832277425808603%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.6732244081360453%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7085695231743915%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.6938979659886629%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.6702234078026008%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.6828942980993664%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.6862287429143048%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.6918972990996999%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.6912304101367123%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.6912304101367123%
+Considering adding the 16 feature
+Using feature 16 accuracy is 0.7385795265088363%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.6942314104701567%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.6875625208402801%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6922307435811937%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.6978992997665888%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.6922307435811937%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.683894631543848%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.6845615205068356%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.6755585195065021%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.6932310770256752%
+Considering adding the 26 feature
+Using feature 26 accuracy is 0.6822274091363788%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.6835611870623541%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.6825608536178727%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.6928976325441814%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.6815605201733911%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7012337445815272%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.6842280760253417%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.6852284094698233%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.6968989663221073%
+Considering adding the 35 feature
+Using feature 35 accuracy is 0.6958986328776259%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7032344114704902%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.6782260753584528%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.6922307435811937%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.6875625208402801%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.6968989663221073%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7049016338779593%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7019006335445148%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.6978992997665888%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.6918972990996999%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.6808936312104035%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.679893297765922%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.67189063021007%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.683894631543848%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.6925641880626876%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.6908969656552184%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6942314104701567%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.6902300766922308%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.6858952984328109%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6845615205068356%
+Considering adding the 55 feature
+Using feature 55 accuracy is 0.6868956318772924%
+Considering adding the 56 feature
+Using feature 56 accuracy is 0.683894631543848%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.6912304101367123%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.6925641880626876%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.6895631877292431%
+Considering adding the 60 feature
+Using feature 60 accuracy is 0.8496165388462821%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.6745581860620207%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.6978992997665888%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.705568522840947%
+Considering adding the 64 feature
+Using feature 64 accuracy is 0.6892297432477492%
+On level 1 added feature 60
+On level 2 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.8396132044014671%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8519506502167389%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8349449816605535%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8416138712904302%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8392797599199733%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8429476492164054%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8492830943647882%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.8476158719573191%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.8406135378459486%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.8362787595865289%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.8442814271423807%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.835945315105035%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.8416138712904302%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8422807602534178%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.8436145381793931%
+Considering adding the 16 feature
+Using feature 16 accuracy is 0.9706568856285428%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.8489496498832945%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.8372790930310103%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.8389463154384795%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.8416138712904302%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.8382794264754918%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.8366122040680227%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.8372790930310103%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.8309436478826275%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.8212737579193065%
+Considering adding the 26 feature
+Using feature 26 accuracy is 0.8419473157719239%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.8432810936978993%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.8476158719573191%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.8402800933644549%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.8429476492164054%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.8489496498832945%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.8512837612537513%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.843947982660887%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.8289429809936646%
+Considering adding the 35 feature
+Using feature 35 accuracy is 0.8526175391797266%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.8422807602534178%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.8542847615871957%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.8529509836612204%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.8416138712904302%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.8362787595865289%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.837945981993998%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.8322774258086029%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.8416138712904302%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.8479493164388129%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.8432810936978993%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.8416138712904302%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.8496165388462821%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.8336112037345782%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.8392797599199733%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.8396132044014671%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.8429476492164054%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.8426142047349117%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.8482827609203067%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.8386128709569857%
+Considering adding the 55 feature
+Using feature 55 accuracy is 0.8419473157719239%
+Considering adding the 56 feature
+Using feature 56 accuracy is 0.8396132044014671%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.8409469823274425%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.8286095365121707%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.843947982660887%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.843947982660887%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.827942647549183%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.8342780926975658%
+Considering adding the 64 feature
+Using feature 64 accuracy is 0.8449483161053685%
+On level 2 added feature 16
+On level 3 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.9489829943314438%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.9489829943314438%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.9529843281093698%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.9453151050350117%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.9483161053684561%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.9463154384794932%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.944648216072024%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.9509836612204068%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.9429809936645549%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.9503167722574192%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.946648882960987%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.944648216072024%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.9476492164054685%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.9516505501833945%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.9416472157385796%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.9489829943314438%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.9473157719239746%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.9453151050350117%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.9459819939979993%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.944648216072024%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.9456485495165055%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.9459819939979993%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.9456485495165055%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.9453151050350117%
+Considering adding the 26 feature
+Using feature 26 accuracy is 0.940646882294098%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.9489829943314438%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.9433144381460487%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.9419806602200733%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.9506502167389129%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.9416472157385796%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.9529843281093698%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.9506502167389129%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.9439813271090364%
+Considering adding the 35 feature
+Using feature 35 accuracy is 0.9613204401467156%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.9503167722574192%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.9483161053684561%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.9523174391463821%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.9506502167389129%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.9489829943314438%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.9483161053684561%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.9459819939979993%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.9469823274424808%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.9476492164054685%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.9436478826275425%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.9469823274424808%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.9449816605535178%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.9493164388129376%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.9459819939979993%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.9453151050350117%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.9479826608869624%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.9496498832944315%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.9409803267755918%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.944648216072024%
+Considering adding the 55 feature
+Using feature 55 accuracy is 0.9469823274424808%
+Considering adding the 56 feature
+Using feature 56 accuracy is 0.9456485495165055%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.9463154384794932%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.9436478826275425%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.9473157719239746%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.946648882960987%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.946648882960987%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.9516505501833945%
+Considering adding the 64 feature
+Using feature 64 accuracy is 0.9463154384794932%
+On level 3 added feature 35
+On level 4 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.9326442147382461%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.9293097699233077%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.9376458819606536%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.9216405468489497%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.93297765921974%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.9359786595531844%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.9279759919973325%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.9319773257752584%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.9323107702567522%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.9303101033677893%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.9279759919973325%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.9263087695898633%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.9293097699233077%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.9353117705901968%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.9283094364788262%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.9256418806268756%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.9243081027009002%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.930643547849283%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.918972990996999%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.9273091030343448%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.9273091030343448%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.924974991663888%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.9233077692564188%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.9276425475158386%
+Considering adding the 26 feature
+Using feature 26 accuracy is 0.9256418806268756%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.9296432144048016%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.9263087695898633%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.9326442147382461%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.9246415471823941%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.9343114371457152%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.9343114371457152%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.9279759919973325%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.9296432144048016%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.9276425475158386%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.924974991663888%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.9293097699233077%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.9199733244414805%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.924974991663888%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.9373124374791597%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.9276425475158386%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.9236412137379126%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.9319773257752584%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.9246415471823941%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.9313104368122708%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.9186395465155052%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.928976325441814%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.9283094364788262%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.9266422140713572%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.9243081027009002%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.9283094364788262%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.9273091030343448%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.93297765921974%
+Considering adding the 55 feature
+Using feature 55 accuracy is 0.9396465488496165%
+Considering adding the 56 feature
+Using feature 56 accuracy is 0.9339779926642214%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.9299766588862954%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.9269756585528509%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.924974991663888%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.9256418806268756%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.9256418806268756%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.9283094364788262%
+Considering adding the 64 feature
+Using feature 64 accuracy is 0.9336445481827276%
+On level 4 added feature 55
+On level 5 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.9016338779593198%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8909636545515172%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8966322107369123%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8879626542180727%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8929643214404802%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8962987662554185%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8996332110703568%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.8992997665888629%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.8926308769589864%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.8986328776258753%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.8972990996999%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.8972990996999%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.8896298766255418%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.9006335445148382%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.8926308769589864%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.891297099033011%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.8849616538846282%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.9033011003667889%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.8886295431810604%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.8889629876625542%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.901300433477826%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.8956318772924308%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.8962987662554185%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.8979659886628877%
+Considering adding the 26 feature
+Using feature 26 accuracy is 0.8966322107369123%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.8956318772924308%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.8996332110703568%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.895298432810937%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.8919639879959986%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.8996332110703568%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.8906302100700233%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.8896298766255418%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.9003001000333445%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.8916305435145049%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.8909636545515172%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.8936312104034678%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.8919639879959986%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.8989663221073692%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.8939646548849617%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.889296432144048%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.8906302100700233%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.8976325441813938%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.8929643214404802%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.9009669889963321%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.8969656552184061%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.9023007669223074%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.8946315438479493%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.8972990996999%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.8906302100700233%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.9009669889963321%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.8919639879959986%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.8902967655885295%
+Considering adding the 56 feature
+Using feature 56 accuracy is 0.9046348782927642%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.9033011003667889%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.9006335445148382%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.8849616538846282%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.8936312104034678%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.8962987662554185%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.891297099033011%
+Considering adding the 64 feature
+Using feature 64 accuracy is 0.895298432810937%
+On level 5 added feature 56
+On level 6 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.8659553184394798%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8692897632544181%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8706235411803934%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8662887629209737%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8699566522174058%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.867622540846949%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8702900966988997%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.8549516505501834%
+Considering adding the 9 feature
+Using feature 9 accuracy is 0.8789596532177393%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.869623207735912%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.8626208736245415%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.8649549849949983%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.8606202067355785%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8746248749583194%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.865621873957986%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.8582860953651217%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.8609536512170723%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.865621873957986%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.8642880960320106%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.865621873957986%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.8689563187729243%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.8766255418472825%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.8652884294764922%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.8712904301433811%
+Considering adding the 26 feature
+Using feature 26 accuracy is 0.8729576525508503%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.8719573191063688%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.8702900966988997%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.8642880960320106%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.859619873291097%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.8662887629209737%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.8692897632544181%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.8629543181060353%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.8626208736245415%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.8602867622540847%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.865621873957986%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.8706235411803934%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.8559519839946649%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.8739579859953318%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.8576192064021341%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.8706235411803934%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.8576192064021341%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.871623874624875%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.8602867622540847%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.8639546515505169%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.8616205401800601%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.873624541513838%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.8606202067355785%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.8642880960320106%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.8616205401800601%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.8589529843281094%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.8626208736245415%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.8606202067355785%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.8702900966988997%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.8706235411803934%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.8619539846615538%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.8599533177725909%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.8582860953651217%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.8569523174391463%
+Considering adding the 64 feature
+Using feature 64 accuracy is 0.8599533177725909%
+On level 6 added feature 9
+On level 7 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.8402800933644549%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8362787595865289%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8312770923641214%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8432810936978993%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8432810936978993%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8392797599199733%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8422807602534178%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.8426142047349117%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.8472824274758253%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.843947982660887%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.8442814271423807%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.8412804268089363%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8426142047349117%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.837945981993998%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.8309436478826275%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.8416138712904302%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.8462820940313438%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.8432810936978993%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.8356118706235411%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.8382794264754918%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.8389463154384795%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.8449483161053685%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.8406135378459486%
+Considering adding the 26 feature
+Using feature 26 accuracy is 0.8516172057352451%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.8482827609203067%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.8422807602534178%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.8459486495498499%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.8326108702900967%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.8442814271423807%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.8402800933644549%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.8366122040680227%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.8436145381793931%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.8369456485495165%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.8342780926975658%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.8469489829943314%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.8469489829943314%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.8476158719573191%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.8422807602534178%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.8402800933644549%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.8356118706235411%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.8419473157719239%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.8416138712904302%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.8352784261420474%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.8429476492164054%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.8456152050683561%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.8362787595865289%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.8346115371790597%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.8386128709569857%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.8416138712904302%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.8372790930310103%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.8406135378459486%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.8459486495498499%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.8429476492164054%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.8412804268089363%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.8472824274758253%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.8342780926975658%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.8352784261420474%
+Considering adding the 64 feature
+Using feature 64 accuracy is 0.8516172057352451%
+On level 7 added feature 26
+On level 8 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.8152717572524175%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.8152717572524175%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.8229409803267755%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.8109369789929977%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.8132710903634545%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8149383127709237%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.812270756918973%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.820273424474825%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.8109369789929977%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.8199399799933311%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.8136045348449483%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.8209403134378126%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.8119373124374791%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.820273424474825%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.8166055351783928%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.8142714238079359%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.8099366455485162%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.8192730910303434%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.8072690896965655%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.8132710903634545%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.8232744248082694%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.8166055351783928%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.8126042014004669%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.8182727575858619%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.8136045348449483%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.806268756252084%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.806268756252084%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.8116038679559854%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.8196065355118373%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.8159386462154051%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.8136045348449483%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.8099366455485162%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.8132710903634545%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.8159386462154051%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.8189396465488497%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.8119373124374791%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.8146048682894298%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.8172724241413805%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.8169389796598866%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.812270756918973%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.8179393131043681%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.8112704234744915%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.812270756918973%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.8046015338446149%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.8209403134378126%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.8146048682894298%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.816272090696899%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.8116038679559854%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.8209403134378126%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.8126042014004669%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.8206068689563187%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.8259419806602201%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.8242747582527509%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.8072690896965655%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.8026008669556519%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.8066022007335779%
+Considering adding the 64 feature
+Using feature 64 accuracy is 0.8286095365121707%
+On level 8 added feature 64
+On level 9 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.8012670890296766%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7979326442147382%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7992664221407135%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7929309769923307%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7975991997332444%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.8002667555851951%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8099366455485162%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7892630876958986%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7895965321773925%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.8032677559186395%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7905968656218739%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.8039346448816272%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.796598866288763%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.8046015338446149%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7942647549183061%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.788596198732911%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.796598866288763%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7999333111037013%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7989329776592198%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7949316438812938%
+Considering adding the 23 feature
+Using feature 23 accuracy is 0.8126042014004669%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.8029343114371457%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.8116038679559854%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.8006002000666889%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7989329776592198%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7849283094364788%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.8076025341780594%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7989329776592198%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7992664221407135%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7935978659553184%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7979326442147382%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.796598866288763%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.806268756252084%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.806268756252084%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.802267422474158%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.804268089363121%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.8106035345115038%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7935978659553184%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7932644214738246%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7929309769923307%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7892630876958986%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.8036012004001334%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.7879293097699233%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7959319773257753%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7972657552517506%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.8006002000666889%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.8036012004001334%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7992664221407135%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.7982660886962321%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7995998666222074%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7889296432144048%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.8086028676225409%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7935978659553184%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7969323107702567%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7949316438812938%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7995998666222074%
+On level 9 added feature 23
+On level 10 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7812604201400467%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7875958652884295%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.788596198732911%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7855951983994665%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7755918639546515%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7839279759919974%
+Considering adding the 7 feature
+Using feature 7 accuracy is 0.8036012004001334%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7839279759919974%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7669223074358119%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7979326442147382%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7809269756585528%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.784594864954985%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.782594198066022%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7905968656218739%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7835945315105035%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.7742580860286762%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7875958652884295%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7835945315105035%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7782594198066022%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.784594864954985%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7765921973991331%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.796598866288763%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7875958652884295%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7892630876958986%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7725908636212071%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.7912637545848616%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7855951983994665%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7835945315105035%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7855951983994665%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7725908636212071%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7802600866955652%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7879293097699233%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7912637545848616%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.7859286428809603%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.7919306435478493%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7982660886962321%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7749249749916639%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7789263087695899%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.786595531843948%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7819273091030343%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7802600866955652%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.7775925308436146%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7839279759919974%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7869289763254418%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7915971990663555%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7792597532510837%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7939313104368123%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.784594864954985%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.788596198732911%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7765921973991331%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.7932644214738246%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7935978659553184%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7822607535845282%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7882627542514171%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7842614204734911%
+On level 10 added feature 7
+On level 11 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7789263087695899%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7762587529176392%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7842614204734911%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7719239746582194%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7809269756585528%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7765921973991331%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7829276425475158%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7725908636212071%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7782594198066022%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7739246415471824%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7799266422140714%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7829276425475158%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7819273091030343%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7755918639546515%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.7719239746582194%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7792597532510837%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7775925308436146%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7782594198066022%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7735911970656886%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7809269756585528%
+Considering adding the 25 feature
+Using feature 25 accuracy is 0.7882627542514171%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7875958652884295%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7732577525841947%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7679226408802934%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.780593531177059%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7819273091030343%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.770590196732244%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7799266422140714%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7712570856952318%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7669223074358119%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7769256418806268%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7792597532510837%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.7812604201400467%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.7769256418806268%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7832610870290097%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7859286428809603%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7645881960653551%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7822607535845282%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7795931977325775%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7752584194731578%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.7872624208069356%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7832610870290097%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.780593531177059%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7835945315105035%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7762587529176392%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7799266422140714%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.7712570856952318%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7742580860286762%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.780593531177059%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.7849283094364788%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7735911970656886%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7772590863621207%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7832610870290097%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7775925308436146%
+On level 11 added feature 25
+On level 12 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.768922974324775%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.764921640546849%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7659219739913304%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7699233077692564%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7742580860286762%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7752584194731578%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7699233077692564%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7695898632877626%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7695898632877626%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7739246415471824%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7712570856952318%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7679226408802934%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7725908636212071%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7679226408802934%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.768922974324775%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7679226408802934%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7719239746582194%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7652550850283428%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.760920306768923%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7659219739913304%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7759253084361454%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7615871957319106%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7659219739913304%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.7729243081027009%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.768922974324775%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7579193064354784%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7719239746582194%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7772590863621207%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7619206402134044%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7782594198066022%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7815938646215406%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.7642547515838612%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.7695898632877626%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.768922974324775%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7739246415471824%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7645881960653551%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7709236412137379%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7732577525841947%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7612537512504168%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.7772590863621207%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7695898632877626%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7699233077692564%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7645881960653551%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7672557519173058%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7729243081027009%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.7612537512504168%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.768922974324775%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7669223074358119%
+Considering adding the 58 feature
+Using feature 58 accuracy is 0.7839279759919974%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7759253084361454%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7652550850283428%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7682560853617872%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7679226408802934%
+On level 12 added feature 58
+On level 13 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7562520840280094%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.75891963987996%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7592530843614538%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.770590196732244%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7699233077692564%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.768922974324775%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7675891963987996%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7599199733244415%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7555851950650216%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7585861953984662%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7652550850283428%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.756918972990997%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.75891963987996%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7642547515838612%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.7562520840280094%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7575858619539847%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7642547515838612%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7625875291763922%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.752917639213071%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7612537512504168%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7719239746582194%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7585861953984662%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7499166388796266%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.7575858619539847%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7632544181393798%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7585861953984662%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7525841947315772%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7615871957319106%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.760920306768923%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7612537512504168%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7642547515838612%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.7682560853617872%
+Considering adding the 40 feature
+Using feature 40 accuracy is 0.7725908636212071%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7555851950650216%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7699233077692564%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7682560853617872%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7682560853617872%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7635878626208736%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7629209736578859%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.7695898632877626%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7679226408802934%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7535845281760587%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7692564188062687%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7672557519173058%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7629209736578859%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.75891963987996%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7502500833611204%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7585861953984662%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7675891963987996%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7632544181393798%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.75891963987996%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7539179726575526%
+On level 13 added feature 40
+On level 14 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7449149716572191%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7459153051017006%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7542514171390463%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7532510836945648%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7522507502500834%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7619206402134044%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7465821940646882%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7459153051017006%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7445815271757252%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7455818606202067%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7525841947315772%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7465821940646882%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.741247082360787%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7522507502500834%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.7505835278426142%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7425808602867623%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7579193064354784%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7555851950650216%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.746915638546182%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7482494164721574%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7499166388796266%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7445815271757252%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7505835278426142%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.7479159719906635%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7595865288429476%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7382460820273424%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7482494164721574%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7519173057685895%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7405801933977992%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7462487495831944%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7455818606202067%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.7532510836945648%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7455818606202067%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7505835278426142%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7472490830276759%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7535845281760587%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7505835278426142%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7539179726575526%
+Considering adding the 47 feature
+Using feature 47 accuracy is 0.7695898632877626%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7505835278426142%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7502500833611204%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7479159719906635%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7572524174724908%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7475825275091698%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.745248416138713%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7519173057685895%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7579193064354784%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7539179726575526%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7375791930643548%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7579193064354784%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.754918306102034%
+On level 14 added feature 47
+On level 15 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7385795265088363%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7485828609536512%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7479159719906635%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.750916972324108%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7442480826942314%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.746915638546182%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7355785261753918%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7432477492497499%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7502500833611204%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7545848616205402%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7455818606202067%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7445815271757252%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7439146382127376%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7479159719906635%
+Considering adding the 18 feature
+Using feature 18 accuracy is 0.7639213071023675%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.729243081027009%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7489163054351451%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7492497499166388%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7439146382127376%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7472490830276759%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7492497499166388%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7502500833611204%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7442480826942314%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.7472490830276759%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7502500833611204%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.742914304768256%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7419139713237746%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7515838612870956%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7492497499166388%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7442480826942314%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7425808602867623%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.7535845281760587%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7512504168056019%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7505835278426142%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7512504168056019%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7605868622874291%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7479159719906635%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7415805268422807%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7465821940646882%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7492497499166388%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7539179726575526%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7365788596198732%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7482494164721574%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.7422474158052684%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7389129709903302%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7395798599533178%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.75891963987996%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7435811937312438%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.746915638546182%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7612537512504168%
+On level 15 added feature 18
+On level 16 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7379126375458486%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7299099699899967%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7399133044348116%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.741247082360787%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.746915638546182%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7402467489163055%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.727242414138046%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7275758586195399%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7382460820273424%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7419139713237746%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7359119706568856%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7409136378792931%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7389129709903302%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7442480826942314%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.731243747915972%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7442480826942314%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.737245748582861%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7382460820273424%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7415805268422807%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7445815271757252%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7329109703234411%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7345781927309103%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.7432477492497499%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7492497499166388%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7369123041013671%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.742914304768256%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.742914304768256%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7339113037679227%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7319106368789596%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7395798599533178%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.7499166388796266%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7395798599533178%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7345781927309103%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7382460820273424%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7485828609536512%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7389129709903302%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7342447482494164%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7432477492497499%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.737245748582861%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7392464154718239%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7502500833611204%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.737245748582861%
+Considering adding the 53 feature
+Using feature 53 accuracy is 0.750916972324108%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7329109703234411%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7392464154718239%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7415805268422807%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.741247082360787%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7409136378792931%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7489163054351451%
+On level 16 added feature 53
+On level 17 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.737245748582861%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7249083027675892%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7355785261753918%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7319106368789596%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.742914304768256%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7385795265088363%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7315771923974658%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7249083027675892%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.727242414138046%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7472490830276759%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7345781927309103%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.735245081693898%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7365788596198732%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7442480826942314%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7345781927309103%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7385795265088363%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7279093031010336%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.729243081027009%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7405801933977992%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7415805268422807%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7365788596198732%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7355785261753918%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.7369123041013671%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7432477492497499%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7342447482494164%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7299099699899967%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7359119706568856%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7349116372124042%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7302434144714905%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.741247082360787%
+Considering adding the 39 feature
+Using feature 39 accuracy is 0.7502500833611204%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7262420806935646%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7419139713237746%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7405801933977992%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7442480826942314%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7455818606202067%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7245748582860954%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7339113037679227%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.737245748582861%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7359119706568856%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7375791930643548%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7392464154718239%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.735245081693898%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7459153051017006%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7345781927309103%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7382460820273424%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7395798599533178%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7395798599533178%
+On level 17 added feature 39
+On level 18 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.731243747915972%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7159053017672558%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7379126375458486%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7375791930643548%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7359119706568856%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7299099699899967%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7355785261753918%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7342447482494164%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.731243747915972%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7389129709903302%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7349116372124042%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.727242414138046%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7362454151383795%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7425808602867623%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7269089696565522%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7462487495831944%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7362454151383795%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7389129709903302%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7362454151383795%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7392464154718239%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7322440813604535%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7275758586195399%
+Considering adding the 30 feature
+Using feature 30 accuracy is 0.7489163054351451%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.742914304768256%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7355785261753918%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7335778592864288%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.731243747915972%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7239079693231077%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7275758586195399%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7465821940646882%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7345781927309103%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.735245081693898%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7419139713237746%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7415805268422807%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.733244414804935%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7339113037679227%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.733244414804935%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7362454151383795%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.741247082360787%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7389129709903302%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7459153051017006%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7335778592864288%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7402467489163055%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7409136378792931%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7322440813604535%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7379126375458486%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.742914304768256%
+On level 18 added feature 30
+On level 19 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7285761920640214%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7289096365455152%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7335778592864288%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7339113037679227%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7329109703234411%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7345781927309103%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.735245081693898%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.729243081027009%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7299099699899967%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7402467489163055%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7375791930643548%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7302434144714905%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7415805268422807%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7435811937312438%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7382460820273424%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7409136378792931%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7425808602867623%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7409136378792931%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7365788596198732%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7385795265088363%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7339113037679227%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.729243081027009%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7375791930643548%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7362454151383795%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7402467489163055%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7392464154718239%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7302434144714905%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7339113037679227%
+Considering adding the 38 feature
+Using feature 38 accuracy is 0.7479159719906635%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7319106368789596%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7395798599533178%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7359119706568856%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7349116372124042%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.741247082360787%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7319106368789596%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.737245748582861%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7362454151383795%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7335778592864288%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7335778592864288%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7385795265088363%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7302434144714905%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.731243747915972%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7379126375458486%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.741247082360787%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7365788596198732%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7379126375458486%
+On level 19 added feature 38
+On level 20 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.735245081693898%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7299099699899967%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7369123041013671%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7342447482494164%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7399133044348116%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7255751917305768%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7322440813604535%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7285761920640214%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7282427475825275%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7382460820273424%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.733244414804935%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7369123041013671%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7342447482494164%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7309103034344782%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7345781927309103%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.737245748582861%
+Considering adding the 21 feature
+Using feature 21 accuracy is 0.7462487495831944%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7282427475825275%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7415805268422807%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7369123041013671%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7365788596198732%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7349116372124042%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7295765255085028%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7315771923974658%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7402467489163055%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7315771923974658%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7335778592864288%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7322440813604535%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7345781927309103%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7339113037679227%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7449149716572191%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7335778592864288%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7382460820273424%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7285761920640214%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7405801933977992%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7359119706568856%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7259086362120707%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7339113037679227%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7302434144714905%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7305768589529843%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7305768589529843%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.737245748582861%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7462487495831944%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7369123041013671%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.733244414804935%
+On level 20 added feature 21
+On level 21 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.733244414804935%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.72324108036012%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7439146382127376%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.735245081693898%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7319106368789596%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7325775258419474%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7319106368789596%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7289096365455152%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7225741913971324%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7445815271757252%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7399133044348116%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7319106368789596%
+Considering adding the 15 feature
+Using feature 15 accuracy is 0.7459153051017006%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7395798599533178%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.731243747915972%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7409136378792931%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.737245748582861%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7402467489163055%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7415805268422807%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7315771923974658%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7315771923974658%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7345781927309103%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7319106368789596%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.742914304768256%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.735245081693898%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.733244414804935%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.731243747915972%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7362454151383795%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7359119706568856%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7399133044348116%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7415805268422807%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7322440813604535%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.727242414138046%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7365788596198732%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7395798599533178%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7315771923974658%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7399133044348116%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7365788596198732%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7329109703234411%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7295765255085028%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7399133044348116%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7439146382127376%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7399133044348116%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7285761920640214%
+On level 21 added feature 15
+On level 22 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7255751917305768%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7182394131377126%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.731243747915972%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7362454151383795%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7319106368789596%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7225741913971324%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7335778592864288%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7315771923974658%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7305768589529843%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7315771923974658%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7309103034344782%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.713571190396799%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7242414138046015%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.729243081027009%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7369123041013671%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7349116372124042%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7322440813604535%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7402467489163055%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7269089696565522%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.729243081027009%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7269089696565522%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7169056352117372%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7262420806935646%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7235745248416139%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7325775258419474%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7289096365455152%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.729243081027009%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.733244414804935%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7355785261753918%
+Considering adding the 44 feature
+Using feature 44 accuracy is 0.7409136378792931%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7329109703234411%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7202400800266756%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7355785261753918%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7355785261753918%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7245748582860954%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7235745248416139%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7335778592864288%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7235745248416139%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7229076358786262%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7305768589529843%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7399133044348116%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7369123041013671%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7259086362120707%
+On level 22 added feature 44
+On level 23 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7339113037679227%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7229076358786262%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7215738579526508%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7295765255085028%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7219073024341447%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7189063021007003%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7315771923974658%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7299099699899967%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.727242414138046%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7222407469156386%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7282427475825275%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7209069689896632%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7329109703234411%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7285761920640214%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7335778592864288%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7325775258419474%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7309103034344782%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.729243081027009%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7289096365455152%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7189063021007003%
+Considering adding the 31 feature
+Using feature 31 accuracy is 0.7405801933977992%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7215738579526508%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7275758586195399%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.729243081027009%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.727242414138046%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.729243081027009%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7279093031010336%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7349116372124042%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7365788596198732%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7279093031010336%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7159053017672558%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7325775258419474%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7295765255085028%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7315771923974658%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7305768589529843%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7212404134711571%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7209069689896632%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7265755251750583%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.733244414804935%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7389129709903302%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7392464154718239%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.729243081027009%
+On level 23 added feature 31
+On level 24 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.729243081027009%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7225741913971324%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7172390796932311%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7359119706568856%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7189063021007003%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7245748582860954%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7279093031010336%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.731243747915972%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7259086362120707%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7269089696565522%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.733244414804935%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7182394131377126%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7259086362120707%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7289096365455152%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7349116372124042%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7259086362120707%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7289096365455152%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7279093031010336%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.729243081027009%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7235745248416139%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7315771923974658%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7349116372124042%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7335778592864288%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7295765255085028%
+Considering adding the 37 feature
+Using feature 37 accuracy is 0.7389129709903302%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.731243747915972%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.735245081693898%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7385795265088363%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7222407469156386%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7245748582860954%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7345781927309103%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7199066355451818%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7229076358786262%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7282427475825275%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7205735245081694%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7269089696565522%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7262420806935646%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.737245748582861%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7382460820273424%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7365788596198732%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7299099699899967%
+On level 24 added feature 37
+On level 25 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7252417472490831%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7205735245081694%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7185728576192064%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7345781927309103%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7222407469156386%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7159053017672558%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7275758586195399%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7299099699899967%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7325775258419474%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7302434144714905%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7265755251750583%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7259086362120707%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7269089696565522%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7205735245081694%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.731243747915972%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.727242414138046%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7289096365455152%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7212404134711571%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7209069689896632%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7182394131377126%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.727242414138046%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7339113037679227%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7289096365455152%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7269089696565522%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7265755251750583%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.731243747915972%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7252417472490831%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7225741913971324%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7212404134711571%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7249083027675892%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7159053017672558%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7169056352117372%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7219073024341447%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.719239746582194%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7239079693231077%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.72324108036012%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7349116372124042%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7315771923974658%
+Considering adding the 62 feature
+Using feature 62 accuracy is 0.7362454151383795%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7269089696565522%
+On level 25 added feature 62
+On level 26 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7299099699899967%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.717572524174725%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7215738579526508%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.727242414138046%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7189063021007003%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7252417472490831%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7269089696565522%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7329109703234411%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7205735245081694%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7275758586195399%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7242414138046015%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7212404134711571%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.72324108036012%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7209069689896632%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7285761920640214%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7255751917305768%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7249083027675892%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.72324108036012%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7209069689896632%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7142380793597866%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7265755251750583%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7185728576192064%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7249083027675892%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7285761920640214%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7275758586195399%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7279093031010336%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7275758586195399%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7252417472490831%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7155718572857619%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7215738579526508%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7245748582860954%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7155718572857619%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7239079693231077%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7259086362120707%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7209069689896632%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.719239746582194%
+Considering adding the 59 feature
+Using feature 59 accuracy is 0.7345781927309103%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7322440813604535%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7215738579526508%
+On level 26 added feature 59
+On level 27 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7225741913971324%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7132377459153051%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7159053017672558%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7242414138046015%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7185728576192064%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7222407469156386%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7279093031010336%
+Considering adding the 10 feature
+Using feature 10 accuracy is 0.7382460820273424%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7205735245081694%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7222407469156386%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7215738579526508%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7222407469156386%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7222407469156386%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7252417472490831%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7302434144714905%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7229076358786262%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7229076358786262%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7225741913971324%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7262420806935646%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7212404134711571%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7282427475825275%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7199066355451818%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7245748582860954%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7315771923974658%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7289096365455152%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7212404134711571%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7249083027675892%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.72324108036012%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7179059686562187%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7265755251750583%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7275758586195399%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7215738579526508%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7159053017672558%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7199066355451818%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7202400800266756%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7205735245081694%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7252417472490831%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7235745248416139%
+On level 27 added feature 10
+On level 28 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.719239746582194%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7245748582860954%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7295765255085028%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7295765255085028%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7202400800266756%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7225741913971324%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.731243747915972%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7245748582860954%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7262420806935646%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7235745248416139%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7262420806935646%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7255751917305768%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.727242414138046%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7289096365455152%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7282427475825275%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7202400800266756%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.727242414138046%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7199066355451818%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7155718572857619%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7252417472490831%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7279093031010336%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7202400800266756%
+Considering adding the 36 feature
+Using feature 36 accuracy is 0.7349116372124042%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7305768589529843%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7222407469156386%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7302434144714905%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7295765255085028%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.709569856618873%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7245748582860954%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.727242414138046%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7142380793597866%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7275758586195399%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.72324108036012%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7235745248416139%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.717572524174725%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.719239746582194%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7302434144714905%
+On level 28 added feature 36
+On level 29 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7099033011003668%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7229076358786262%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7279093031010336%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7209069689896632%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7139046348782928%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.7199066355451818%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7262420806935646%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7165721907302434%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7295765255085028%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7189063021007003%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7265755251750583%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7265755251750583%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7285761920640214%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7242414138046015%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7225741913971324%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7309103034344782%
+Considering adding the 27 feature
+Using feature 27 accuracy is 0.7329109703234411%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7285761920640214%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7132377459153051%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7202400800266756%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7182394131377126%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7195731910636879%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7139046348782928%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7215738579526508%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7262420806935646%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7202400800266756%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7235745248416139%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7185728576192064%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7215738579526508%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7072357452484161%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7205735245081694%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7262420806935646%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7212404134711571%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7169056352117372%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7209069689896632%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.727242414138046%
+On level 29 added feature 27
+On level 30 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7172390796932311%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7155718572857619%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7252417472490831%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7185728576192064%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.713571190396799%
+Considering adding the 6 feature
+Using feature 6 accuracy is 0.731243747915972%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7229076358786262%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7165721907302434%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7219073024341447%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7262420806935646%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7189063021007003%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7169056352117372%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7182394131377126%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7215738579526508%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7205735245081694%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7225741913971324%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7132377459153051%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7165721907302434%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7219073024341447%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7149049683227743%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7149049683227743%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7159053017672558%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7229076358786262%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7215738579526508%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7209069689896632%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7129043014338112%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7132377459153051%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7165721907302434%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7072357452484161%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7162387462487496%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7235745248416139%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7252417472490831%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7082360786928976%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7239079693231077%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7209069689896632%
+On level 30 added feature 6
+On level 31 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7169056352117372%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7152384128042681%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7202400800266756%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7235745248416139%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.713571190396799%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7209069689896632%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7182394131377126%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7219073024341447%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7239079693231077%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7219073024341447%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7155718572857619%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7162387462487496%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7149049683227743%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7189063021007003%
+Considering adding the 24 feature
+Using feature 24 accuracy is 0.7269089696565522%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7165721907302434%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7142380793597866%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7162387462487496%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7199066355451818%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7145715238412804%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7142380793597866%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7229076358786262%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7209069689896632%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7199066355451818%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.717572524174725%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7155718572857619%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7179059686562187%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7039013004334779%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7179059686562187%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7199066355451818%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7195731910636879%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7132377459153051%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7155718572857619%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7205735245081694%
+On level 31 added feature 24
+On level 32 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7132377459153051%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7152384128042681%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7209069689896632%
+Considering adding the 4 feature
+Using feature 4 accuracy is 0.7249083027675892%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7139046348782928%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7222407469156386%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7149049683227743%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.719239746582194%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7162387462487496%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7169056352117372%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7132377459153051%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7209069689896632%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7165721907302434%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7202400800266756%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7119039679893298%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7109036345448483%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7165721907302434%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7215738579526508%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.70756918972991%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7105701900633544%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7222407469156386%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7189063021007003%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7185728576192064%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7089029676558853%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7119039679893298%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7149049683227743%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.705568522840947%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7162387462487496%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7179059686562187%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7155718572857619%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7052350783594532%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7179059686562187%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.70756918972991%
+On level 32 added feature 4
+On level 33 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7125708569523175%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7132377459153051%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7165721907302434%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7085695231743915%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7179059686562187%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.70756918972991%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7199066355451818%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7109036345448483%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7169056352117372%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7129043014338112%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7152384128042681%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.709569856618873%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7205735245081694%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7149049683227743%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7105701900633544%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7189063021007003%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7132377459153051%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7099033011003668%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7089029676558853%
+Considering adding the 42 feature
+Using feature 42 accuracy is 0.7239079693231077%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7235745248416139%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7169056352117372%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7119039679893298%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7139046348782928%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7189063021007003%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7122374124708236%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7165721907302434%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7115705235078359%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7155718572857619%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7092364121373791%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.719239746582194%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7109036345448483%
+On level 33 added feature 42
+On level 34 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7109036345448483%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7112370790263421%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7125708569523175%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7092364121373791%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7125708569523175%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7049016338779593%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7179059686562187%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7115705235078359%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7142380793597866%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7142380793597866%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.719239746582194%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.70756918972991%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7145715238412804%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7125708569523175%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.6965655218406135%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7129043014338112%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7115705235078359%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7125708569523175%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7162387462487496%
+Considering adding the 43 feature
+Using feature 43 accuracy is 0.7229076358786262%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7162387462487496%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.713571190396799%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7115705235078359%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7172390796932311%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7082360786928976%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7172390796932311%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7039013004334779%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7119039679893298%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.6988996332110704%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7155718572857619%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7092364121373791%
+On level 34 added feature 43
+On level 35 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7039013004334779%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7145715238412804%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.717572524174725%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7105701900633544%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7155718572857619%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7099033011003668%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7202400800266756%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7065688562854284%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7182394131377126%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7145715238412804%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7189063021007003%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7089029676558853%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7142380793597866%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7162387462487496%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7092364121373791%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7099033011003668%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7155718572857619%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7145715238412804%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.713571190396799%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.719239746582194%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7162387462487496%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7125708569523175%
+Considering adding the 49 feature
+Using feature 49 accuracy is 0.7205735245081694%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7109036345448483%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7182394131377126%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7059019673224408%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7172390796932311%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.713571190396799%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7169056352117372%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7149049683227743%
+On level 35 added feature 49
+On level 36 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7109036345448483%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7079026342114038%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7125708569523175%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7099033011003668%
+Considering adding the 8 feature
+Using feature 8 accuracy is 0.7199066355451818%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7065688562854284%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7162387462487496%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7052350783594532%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7145715238412804%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7155718572857619%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7165721907302434%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7102367455818607%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7092364121373791%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7139046348782928%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7159053017672558%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7059019673224408%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7142380793597866%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7102367455818607%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7109036345448483%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7162387462487496%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7099033011003668%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7082360786928976%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7122374124708236%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7112370790263421%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7085695231743915%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7105701900633544%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7102367455818607%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.717572524174725%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7172390796932311%
+On level 36 added feature 8
+On level 37 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7072357452484161%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7082360786928976%
+Considering adding the 3 feature
+Using feature 3 accuracy is 0.7189063021007003%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.70756918972991%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7072357452484161%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7129043014338112%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.70756918972991%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.70756918972991%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7155718572857619%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7085695231743915%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7172390796932311%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.7162387462487496%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7102367455818607%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7119039679893298%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7049016338779593%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7142380793597866%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7092364121373791%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7185728576192064%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7079026342114038%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7079026342114038%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7089029676558853%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7112370790263421%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.705568522840947%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7115705235078359%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7109036345448483%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7165721907302434%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7172390796932311%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7092364121373791%
+On level 37 added feature 3
+On level 38 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7072357452484161%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7132377459153051%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7092364121373791%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.705568522840947%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7172390796932311%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.713571190396799%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7125708569523175%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.703567855951984%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7062354118039347%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7102367455818607%
+Considering adding the 22 feature
+Using feature 22 accuracy is 0.719239746582194%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7109036345448483%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7142380793597866%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7049016338779593%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7109036345448483%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7119039679893298%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7119039679893298%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7155718572857619%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7155718572857619%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7119039679893298%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7102367455818607%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7052350783594532%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7122374124708236%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7085695231743915%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7155718572857619%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.709569856618873%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7132377459153051%
+On level 38 added feature 22
+On level 39 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.70756918972991%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7099033011003668%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7129043014338112%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7069023007669223%
+Considering adding the 12 feature
+Using feature 12 accuracy is 0.7219073024341447%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7082360786928976%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7139046348782928%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7069023007669223%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7062354118039347%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7032344114704902%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7092364121373791%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7162387462487496%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7105701900633544%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7079026342114038%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7042347449149716%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7109036345448483%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7119039679893298%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7179059686562187%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7052350783594532%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7045681893964655%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7079026342114038%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7045681893964655%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7079026342114038%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7082360786928976%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7139046348782928%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.7195731910636879%
+On level 39 added feature 12
+On level 40 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7079026342114038%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7115705235078359%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7065688562854284%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7099033011003668%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7109036345448483%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7079026342114038%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7129043014338112%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7065688562854284%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7062354118039347%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7142380793597866%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7099033011003668%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7152384128042681%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7079026342114038%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7132377459153051%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7102367455818607%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7142380793597866%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7065688562854284%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7069023007669223%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7082360786928976%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7032344114704902%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7109036345448483%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7099033011003668%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7122374124708236%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7162387462487496%
+Considering adding the 63 feature
+Using feature 63 accuracy is 0.72324108036012%
+On level 40 added feature 63
+On level 41 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7065688562854284%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7155718572857619%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7132377459153051%
+Considering adding the 11 feature
+Using feature 11 accuracy is 0.7185728576192064%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7159053017672558%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7085695231743915%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7159053017672558%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7082360786928976%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7105701900633544%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7152384128042681%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7122374124708236%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7132377459153051%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7122374124708236%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.717572524174725%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7105701900633544%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.713571190396799%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7149049683227743%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7069023007669223%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7142380793597866%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7119039679893298%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7132377459153051%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7072357452484161%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7142380793597866%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7132377459153051%
+On level 41 added feature 11
+On level 42 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7132377459153051%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7099033011003668%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7129043014338112%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7079026342114038%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.703567855951984%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7089029676558853%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7049016338779593%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7082360786928976%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7125708569523175%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7102367455818607%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7072357452484161%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7122374124708236%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7125708569523175%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7119039679893298%
+Considering adding the 45 feature
+Using feature 45 accuracy is 0.7169056352117372%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7149049683227743%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7022340780260087%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7092364121373791%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7099033011003668%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7105701900633544%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7102367455818607%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7105701900633544%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7165721907302434%
+On level 42 added feature 45
+On level 43 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7032344114704902%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7099033011003668%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7092364121373791%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7025675225075025%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7042347449149716%
+Considering adding the 17 feature
+Using feature 17 accuracy is 0.7149049683227743%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7005668556185395%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.713571190396799%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7115705235078359%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7115705235078359%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7082360786928976%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7099033011003668%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7032344114704902%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7115705235078359%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7089029676558853%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.7009003001000333%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7145715238412804%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7069023007669223%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7045681893964655%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7039013004334779%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7115705235078359%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7109036345448483%
+On level 43 added feature 17
+On level 44 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7042347449149716%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7032344114704902%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7099033011003668%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.703567855951984%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7005668556185395%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7039013004334779%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7109036345448483%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7029009669889963%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7132377459153051%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7085695231743915%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.70756918972991%
+Considering adding the 34 feature
+Using feature 34 accuracy is 0.7145715238412804%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7089029676558853%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7062354118039347%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6958986328776259%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7119039679893298%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.70756918972991%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7059019673224408%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6975658552850951%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7139046348782928%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7085695231743915%
+On level 44 added feature 34
+On level 45 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7069023007669223%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7125708569523175%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7062354118039347%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7052350783594532%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7019006335445148%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.701567189063021%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7129043014338112%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7052350783594532%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7099033011003668%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7009003001000333%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7032344114704902%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7062354118039347%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.699566522174058%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6972324108036012%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7072357452484161%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7012337445815272%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7049016338779593%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7012337445815272%
+Considering adding the 57 feature
+Using feature 57 accuracy is 0.7179059686562187%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7102367455818607%
+On level 45 added feature 57
+On level 46 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7002334111370457%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7025675225075025%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7125708569523175%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7049016338779593%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7039013004334779%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.70756918972991%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7122374124708236%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7062354118039347%
+Considering adding the 29 feature
+Using feature 29 accuracy is 0.7152384128042681%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7115705235078359%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7069023007669223%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7102367455818607%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7109036345448483%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6982327442480827%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.709569856618873%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7029009669889963%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7005668556185395%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7025675225075025%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7125708569523175%
+On level 46 added feature 29
+On level 47 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.703567855951984%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.703567855951984%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.70756918972991%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.70756918972991%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.6958986328776259%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.7082360786928976%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7042347449149716%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7085695231743915%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.70756918972991%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.6965655218406135%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7049016338779593%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.703567855951984%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6958986328776259%
+Considering adding the 50 feature
+Using feature 50 accuracy is 0.7115705235078359%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7079026342114038%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.6982327442480827%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7005668556185395%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7059019673224408%
+On level 47 added feature 50
+On level 48 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7059019673224408%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7089029676558853%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7082360786928976%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7089029676558853%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.6985661887295765%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.699566522174058%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7045681893964655%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.70756918972991%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7052350783594532%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7009003001000333%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7042347449149716%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7012337445815272%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6985661887295765%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.709569856618873%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7039013004334779%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6965655218406135%
+Considering adding the 61 feature
+Using feature 61 accuracy is 0.7139046348782928%
+On level 48 added feature 61
+On level 49 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7025675225075025%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7062354118039347%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7049016338779593%
+Considering adding the 13 feature
+Using feature 13 accuracy is 0.7099033011003668%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7042347449149716%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.701567189063021%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7062354118039347%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.705568522840947%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7069023007669223%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7009003001000333%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7082360786928976%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.701567189063021%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6972324108036012%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7025675225075025%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7002334111370457%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6998999666555519%
+On level 49 added feature 13
+On level 50 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7025675225075025%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.703567855951984%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7019006335445148%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.6992330776925642%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6965655218406135%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.703567855951984%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7022340780260087%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7072357452484161%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7029009669889963%
+Considering adding the 41 feature
+Using feature 41 accuracy is 0.7079026342114038%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.701567189063021%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6918972990996999%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.701567189063021%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.6908969656552184%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.701567189063021%
+On level 50 added feature 41
+On level 51 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.6992330776925642%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.701567189063021%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.695565188396132%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7009003001000333%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6975658552850951%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7002334111370457%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.6992330776925642%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7005668556185395%
+Considering adding the 33 feature
+Using feature 33 accuracy is 0.7052350783594532%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.7045681893964655%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6888962987662555%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.7005668556185395%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.6968989663221073%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7005668556185395%
+On level 51 added feature 33
+On level 52 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.6962320773591197%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.695565188396132%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.695565188396132%
+Considering adding the 14 feature
+Using feature 14 accuracy is 0.7045681893964655%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6998999666555519%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.6998999666555519%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.7005668556185395%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.7032344114704902%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6985661887295765%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6902300766922308%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6978992997665888%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7012337445815272%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.7005668556185395%
+On level 52 added feature 14
+On level 53 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.6922307435811937%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.6992330776925642%
+Considering adding the 5 feature
+Using feature 5 accuracy is 0.7019006335445148%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6948982994331444%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.6942314104701567%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.6972324108036012%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.6958986328776259%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6982327442480827%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6868956318772924%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6968989663221073%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.6952317439146383%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.699566522174058%
+On level 53 added feature 5
+On level 54 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.6938979659886629%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.6985661887295765%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6978992997665888%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.6978992997665888%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.6938979659886629%
+Considering adding the 32 feature
+Using feature 32 accuracy is 0.699566522174058%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6985661887295765%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6848949649883295%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.699566522174058%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.6975658552850951%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6922307435811937%
+On level 54 added feature 32
+On level 55 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.6928976325441814%
+Considering adding the 2 feature
+Using feature 2 accuracy is 0.7005668556185395%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6948982994331444%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.6945648549516505%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.6912304101367123%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6928976325441814%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6812270756918973%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.691563854618206%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.6948982994331444%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6922307435811937%
+On level 55 added feature 2
+On level 56 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.6885628542847616%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6942314104701567%
+Considering adding the 20 feature
+Using feature 20 accuracy is 0.7002334111370457%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.6888962987662555%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6885628542847616%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6858952984328109%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6905635211737245%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.6895631877292431%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6958986328776259%
+On level 56 added feature 20
+On level 57 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.6942314104701567%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6938979659886629%
+Considering adding the 28 feature
+Using feature 28 accuracy is 0.699566522174058%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6925641880626876%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6918972990996999%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6965655218406135%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.695565188396132%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6982327442480827%
+On level 57 added feature 28
+On level 58 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7012337445815272%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6918972990996999%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6925641880626876%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6972324108036012%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6972324108036012%
+Considering adding the 52 feature
+Using feature 52 accuracy is 0.7019006335445148%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6958986328776259%
+On level 58 added feature 52
+On level 59 of the search tree
+Considering adding the 1 feature
+Using feature 1 accuracy is 0.7002334111370457%
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6988996332110704%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6948982994331444%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6998999666555519%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6925641880626876%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6902300766922308%
+On level 59 added feature 1
+On level 60 of the search tree
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6882294098032677%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6892297432477492%
+Considering adding the 48 feature
+Using feature 48 accuracy is 0.6912304101367123%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6905635211737245%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6855618539513171%
+On level 60 added feature 48
+On level 61 of the search tree
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6785595198399467%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.683894631543848%
+Considering adding the 51 feature
+Using feature 51 accuracy is 0.6878959653217739%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6818939646548849%
+On level 61 added feature 51
+On level 62 of the search tree
+Considering adding the 19 feature
+Using feature 19 accuracy is 0.6832277425808603%
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6808936312104035%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6828942980993664%
+On level 62 added feature 19
+On level 63 of the search tree
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6792264088029343%
+Considering adding the 54 feature
+Using feature 54 accuracy is 0.6832277425808603%
+On level 63 added feature 54
+On level 64 of the search tree
+Considering adding the 46 feature
+Using feature 46 accuracy is 0.6818939646548849%
+On level 64 added feature 46
+Global best set is [60, 16], global accuracy is 0.9706568856285428
+Total time spent: 263.52210845798254 seconds

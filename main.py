@@ -3,7 +3,7 @@ import numpy as np
 import time
 import sys
 
-df = pd.read_csv("data/Small_data/CS170_Small_DataSet__87.txt", sep='\\s+')
+df = pd.read_csv("data/CS170_Small_DataSet__87.txt", sep='\\s+')
 
 
 def forward_selection():
@@ -40,22 +40,21 @@ def forward_selection():
 
 def leave_one_out(data, current_set):
     total_row = data.shape[0]
+    matrix = data.values[:,current_set]
     correct_instance = 0
     data_col = data.values[:,current_set]
     labels = data.values[:,0]
 
     for i in range(total_row):
-        testing = data_col[i,:]
+        testing = matrix[i,:]
         current_class = labels[i]
-        nearest_dist = float('inf')
-        nearest_label = None
-        for j in range(total_row):
-            if i == j: # not compare with itself
-                continue
-            dist = np.sqrt(np.sum((testing-data_col[j,:])**2)) # Euclid distance
-            if dist < nearest_dist:
-                nearest_dist = dist
-                nearest_label = labels[j]
+        diffs = matrix - testing
+        sq_diffs = np.square(diffs)
+        dist_squared = np.sum(sq_diffs, axis=1)
+        dist_squared[i] = np.inf
+
+        nearest_index = np.argmin(dist_squared)
+        nearest_label = labels[nearest_index]
         if nearest_label == current_class:
             correct_instance += 1
     return correct_instance/total_row
@@ -89,12 +88,12 @@ def backward_elimination():
         print(f"Current_set is {current_set}")
         if best_so_far > global_best:
             global_best = best_so_far
-            global_best_set = current_set
+            global_best_set = list(current_set)
     print(f"Global best set is {global_best_set}, global accuracy is {global_best}")
     return current_set, global_best
     
 def main():
-    sys.stdout = open('output_log.txt', 'w')
+    sys.stdout = open('output_small_f.txt', 'w')
     print(f"Classifying Sanity Dataset 1")
     option = input("Enter you choice: 1. Forward Selection 2. Backward Elimination")
     if option == "1":
